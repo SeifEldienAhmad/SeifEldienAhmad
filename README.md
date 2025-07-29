@@ -16,7 +16,7 @@ To make it easier to find me online, you might know me by one of these names:
 - *Seif Eldien*
 - *Seif Ahmad*
 - *Seif Mohamed*
-- *S. M. Ahmad*
+- *S. E. Ahmad*
 - *Seif E. A. Mohammad*
 - *سيف الدين أحمد محمد* (Arabic)
 
