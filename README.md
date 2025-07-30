@@ -23,4 +23,4 @@ To make it easier to find me online, you might know me by one of these names:
 
 ---
 
-<sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Red Teamer, Linux, GitHub Portfolio</i></sub>
+<sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
