@@ -12,7 +12,9 @@ To make it easier to find me online, you might know me by one of these names:
 
 - *Seif Eldien Ahmad Mohammad* (official full name)
 - *Seif Eldin Ahmad Mohammad*
-- *Seif Eldeen Ahmad Mohammed*
+- *Seif Eldin Ahmed Mohammed*
+- *Seif Eldeen Ahmad Mohammad*
+- *Seif Eldeen Ahmed Mohammed*
 - *Seif Eldien*
 - *Seif Ahmad*
 - *Seif Mohamed*
