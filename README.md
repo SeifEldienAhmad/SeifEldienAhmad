@@ -1,28 +1,28 @@
-## Hi there, I'm Seif Eldein Ahmad Mohammad 👋
+# Hi, I'm Seif Eldien Ahmad Mohammad
 
-- 👀 I'm interested in cybersecurity, ethical hacking, and open-source tools.
-- 🌱 Currently learning penetration testing, red teaming, and system security.
-- 💞️ Looking to collaborate on security-focused projects, CTFs, and automation scripts.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/seifeldienahmad)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy breaking things to understand how they work—and then fixing them better!
-## 🧠 Also known as
+Junior Penetration Tester and Offensive Security enthusiast with a strong interest in Linux, networking, and security automation.
 
-To make it easier to find me online, you might know me by one of these names:
+## Currently
 
-- *Seif Eldien Ahmad Mohammad* (official full name)
-- *Seif Eldin Ahmad Mohammad*
-- *Seif Eldin Ahmed Mohammed*
-- *Seif Eldeen Ahmad Mohammad*
-- *Seif Eldeen Ahmed Mohammed*
-- *Seif Eldien*
-- *Seif Ahmad*
-- *Seif Mohamed*
-- *S. E. Ahmad*
-- *Seif E. A. Mohammad*
-- *سيف الدين أحمد محمد* (Arabic)
+- Learning penetration testing and red teaming
+- Building hands-on security labs and automation tools
+- Contributing to open-source security projects
+- Preparing for professional cybersecurity certifications
 
+## Interests
+
+- Penetration Testing
+- Red Teaming
+- Linux
+- Python Automation
+- Active Directory Security
+- Web Security
+- Cloud Security
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/seifeldienahmad
 
 ---
 
-<sub><i>Keywords: Seif Eldien, Seif Ahmad, Seif Mohammed, سيف الدين, Cybersecurity, Linux, Red Team, Red Teamer, Ethical Hacking, Offensive Security, Information Security, Penetration Testing, Bug Bounty, Seif Eldien Ahmad Mohammad, Seif Portfolio, GitHub Portfolio, Linux Scripts, Parrot OS, Bash Tools, Cyber Defense, Digital Forensics, Linux Administration, Open Source, InfoSec, Cyber Student, Seif OSINT</i></sub>
+*"Learn. Break. Understand. Improve."*
